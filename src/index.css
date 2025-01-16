@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  transition : all 0.3s ease-in-out;
+}
+
+html {
+  font-family: "Figtree" ,serif;
+}
+
+body {
+  margin: 0;
+  /*  */
+  padding: 0;
+}
